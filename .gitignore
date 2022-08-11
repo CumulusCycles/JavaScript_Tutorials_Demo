@@ -1,0 +1,6 @@
+# See http://help.github.com/ignore-files/ for info on the .gitognore file.
+# See https://www.markdownguide.org/basic-syntax/ for info on Markdown Syntax.
+
+.DS_Store
+Thumbs.db
+.vscode/
