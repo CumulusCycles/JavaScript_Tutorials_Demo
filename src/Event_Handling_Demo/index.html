@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+    <title>Demo</title>
+  </head>
+  <body>
+    <main>
+        <h1>Registration Form</h1>
+        <form id="theForm">
+            <label for="userName">User Name</label>  
+            <input type="text" id="userName" required autofocus />
+            <br />
+            <label for="password">Password</label>  
+            <input type="password" id="password" required />
+            <br />
+            <label for="confirm">Confirm</label>  
+            <input type="password" id="confirm" required />
+            <br /><br />
+            <label for="email">Email</label>  
+            <input type="email" placeholder="you@domain.com" id="email" />
+            <br />
+            <label for="phone">Phone</label>  
+            <input type="text" id="phone" placeholder="555-123-4567" pattern="\d{3}-\d{3}-\d{4}"/>
+            <br /><br />
+            <label for="age">Age</label>
+            <input type="number" id="age" min="18" max="50" />
+            <br /><br />
+            <input type="reset" value="Clear" />
+            <input type="submit" value="Register" />
+            <br /><br /><span id="msg"></span>
+        </form>
+    </main>
+
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
