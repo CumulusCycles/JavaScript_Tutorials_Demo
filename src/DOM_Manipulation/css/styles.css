@@ -1,0 +1,45 @@
+h1, h2 {
+    color: #0000FF;
+}
+
+label {
+    display: inline-block;
+    width: 50px;
+}
+
+.indent {
+    margin-left: 55px;
+}
+
+input[type="reset"], input[type="submit"] {
+    cursor: pointer;
+}
+input[type="reset"] , input[type="submit"] {
+    color: #008000;
+    background-color: #ffffff;
+}
+input[type="reset"]:hover, input[type="submit"]:hover {
+    color: #ffffff;
+    background-color: #008000;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.alert {
+    font-size: .75em;
+    cursor: pointer;
+}
+
+#msg {
+    color: #FF0000;
+}
+
+.hidden {
+    display: none;
+}

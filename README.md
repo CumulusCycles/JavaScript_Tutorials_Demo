@@ -8,5 +8,6 @@ This Repo contains code for the Demos in the [JavaScript Playlist](https://www.y
 - [Functions](https://www.youtube.com/watch?v=MpeUqJ19KeY)
 - [localStorage](https://www.youtube.com/watch?v=0TtB_Fsy64M)
 - [Event Handling](https://www.youtube.com/watch?v=2AKF7KMRSvk)
+- [DOM Manipulation](https://www.youtube.com/watch?v=c-0hJAdrp2w)
 
 Please select a Demo Project in the ```src``` folder.
