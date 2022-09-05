@@ -11,5 +11,6 @@ This Repo contains code for the Demos in the [JavaScript Playlist](https://www.y
 - [DOM Manipulation](https://www.youtube.com/watch?v=c-0hJAdrp2w)
 - [AJAX - XmlHttpRequest](https://www.youtube.com/watch?v=7zTBhdWXl2A)
 - [AJAX - Fetch API](https://www.youtube.com/watch?v=ZPFCkFopqSI)
+- [jQuery](https://www.youtube.com/watch?v=8u9Px0bp3AI)
 
 Please select a Demo Project in the ```src``` folder.
